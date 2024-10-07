@@ -1,3 +1,4 @@
-Pet Care Advisor. Chatbot
+Pet Care Advisor.
+-Chatbot
 
-Myriam R
+-Myriam R
